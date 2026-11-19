@@ -22,6 +22,11 @@ Stanford CS336《Language Modeling from Scratch》精简学习笔记，按 AI In
 
 骨架搭建中。讲次索引与模板见 [`lectures/README.md`](lectures/README.md)，新讲次从 [`lectures/_TEMPLATE.md`](lectures/_TEMPLATE.md) 复制。
 
+## 参考项目
+
+- [tsingyuec/cs336-blog](https://github.com/tsingyuec/cs336-blog) — CS336 逐讲博客与「图-字幕」文稿，本项目参考其呈现形式
+- [tsingyuec/video2blog-skill](https://github.com/tsingyuec/video2blog-skill) — 把 B 站 / YouTube 视频整理成博客的开源 skill
+
 ## 来源与版权
 
 笔记为个人学习整理，观点来自 CS336 课程视频字幕与公开课材料，仅作引用；视频截图版权归原作者所有。
