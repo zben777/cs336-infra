@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 数据与模型权重
+data/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.npy
+
+# 视频与抽帧
+videos/
+frames/
+*.mp4
+
+# 系统
+.DS_Store
+.idea/
+.vscode/
