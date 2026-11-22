@@ -13,7 +13,7 @@
 | 7 | Lecture 7 | 并行（一） | ○ |
 | 8 | Lecture 8 | 并行（二） | ○ |
 | 9 | Lecture 9 | Scaling Laws（一） | ○ |
-| 10 | Lecture 10 | Inference | ○ |
+| 10 | Lecture 10 | Inference | ◐ |
 | 11 | Lecture 11 | Scaling Laws（二） | ○ |
 | 12 | Lecture 12 | Evaluation | ○ |
 | 13 | Lecture 13 | 数据：来源与数据集 | ○ |
