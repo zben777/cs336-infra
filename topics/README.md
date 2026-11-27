@@ -11,5 +11,6 @@
 | 并行策略：DP / TP / PP / ZeRO | L7, L8 | ○ |
 | 推理加速：KV Cache / 量化 / 投机解码 | L10 | ○ |
 | Scaling law 与 compute-optimal | L9, L11 | ○ |
+| [分词 Tokenization](tokenization.md) | L1, L10 | ● |
 
 状态标记：○ 未开始 / ◐ 进行中 / ● 完成。
