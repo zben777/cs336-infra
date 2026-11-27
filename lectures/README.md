@@ -5,7 +5,7 @@
 | # | 讲次 | 主题 | 状态 |
 | :-: | :--- | :--- | :-: |
 | 1 | Lecture 1 | 课程概览与分词 | ◐ |
-| 2 | Lecture 2 | PyTorch 与资源核算 | ○ |
+| 2 | Lecture 2 | PyTorch 与资源核算 | ◐ |
 | 3 | Lecture 3 | 模型架构 | ○ |
 | 4 | Lecture 4 | 注意力变体与 MoE | ○ |
 | 5 | Lecture 5 | GPU 与 TPU | ○ |
