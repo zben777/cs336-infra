@@ -16,7 +16,6 @@ Stanford CS336《Language Modeling from Scratch》精简学习笔记，按 AI In
 | :--- | :--- |
 | `lectures/` | 逐讲速记，一讲一页（主体） |
 | `topics/` | 跨讲专题笔记（roofline、并行策略等） |
-| `lab/` | 个人代码实验（kernel 复现、KV cache 量化等） |
 
 ## 当前进度
 
